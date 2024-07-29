@@ -1,1 +1,0 @@
-echo "God is Great"
